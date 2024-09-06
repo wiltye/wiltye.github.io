@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wiltye.github.io/GMl/sitemap.GMl.gz
